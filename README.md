@@ -6,7 +6,7 @@ Every week I clean my room and vacuum the keyboard of my MacBook.
 
 While vacuuming my keyboard, I fire up a texteditor so I don't mess anything up.
 The files here are the "things" I type on the keyboard while vacuuming the keyboard.
-(truly created throught vacuuming. No space for fake ones!).
+(truly created while vacuuming. No fake ones!).
 
 ## So this is art?
 [Some people](http://en.wikipedia.org/wiki/Joseph_Beuys) smear fat in a corner and call it art.
